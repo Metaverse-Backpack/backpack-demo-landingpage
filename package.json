@@ -1,0 +1,14 @@
+{
+  "name": "backpack-demo-landingpage",
+  "version": "0.0.1",
+  "description": "Landingpage for the end-to-end demo of Metaverse Backpack",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server . -p $PORT"
+  },
+  "author": "Benedikt Wölk <benedikt@woelk.io>",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
